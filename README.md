@@ -7,8 +7,8 @@ https://openweathermap.org/weather-conditions
 
 # Steps to Run:
 * Ensure python is installed in the system.
-* Install Django using,
-  <pre>pip install django</pre>
+* To install all the required modules,
+  <pre>pip install -r requirements.txt</pre>
 * After installing django the server can be directly initialized using,
   <pre>python manage.py runserver</pre>
 * Now the server will start to run in port 8000 in default.
