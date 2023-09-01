@@ -37,5 +37,6 @@ https://openweathermap.org/weather-conditions
       "icon": "03n"
     }
   </pre>
-This response can be used in frontend to display the weather conditions.
+This response can be used in frontend to display the weather conditions. 
+</br>
 Thank You :)
